@@ -1,0 +1,22 @@
+{
+  "name": "tugas-3",
+  "version": "1.0.0",
+  "description": "api automation with supertest ",
+  "main": "testAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "irgy",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.7.0",
+    "supertest": "^7.0.0"
+    "type": "module"
+  }
+}
+
